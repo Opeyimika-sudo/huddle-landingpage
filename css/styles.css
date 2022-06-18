@@ -108,7 +108,7 @@ button{
 
 .section__img{
     max-width: 100%;
-    animation: leap 1s linear 2 2s;
+    animation: leap 1s linear 2s;
 }
 
 @keyframes leap{
