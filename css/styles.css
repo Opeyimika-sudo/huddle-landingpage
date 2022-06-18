@@ -108,7 +108,7 @@ button{
 
 .section__img{
     max-width: 100%;
-    animation: leap 1s linear 2s;
+    animation: leap 1s linear 2 2s;
 }
 
 @keyframes leap{
@@ -137,7 +137,7 @@ button{
     margin-bottom: 50px;
     width: 80%;
     max-width: 300px;
-    animation:0.4s linear 0s running shake;
+    animation: 0.4s linear 0s running shake;
 }
 
 .section__text--button > a{
@@ -166,7 +166,7 @@ main {
 
 .main__section > .section__text{
     padding: 0 20px;
-    animation: jump 500ms ease-out 3s 2 !important;
+    animation: jump 500ms ease-out 5s;
 }
 
 @keyframes jump{
